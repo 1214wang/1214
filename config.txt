@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "有时候我词不达意 但我真的很开心生活中有你",
+"note_ch": "日出东方落于西 朝思暮想念于你",
 # 金句英文
-"note_en": "Sometimes I don't understand my word, but I'm really happy that you are in my life"
+"note_en": "The sunrise sets in the east and in the west, and the twilight misses you"
 }
