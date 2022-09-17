@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "我喜欢你，笨拙而热烈，一无所有又倾尽所有。",
+"note_ch": "宝贝考试加油哦 不要着急 紧张哦 你是最棒哒嘿嘿 宝贝加油！！",
 # 金句英文
-"note_en": "I like you, clumsy and warm, with nothing and everything in it."
+"note_en": "Every exam must be passed"
 }
