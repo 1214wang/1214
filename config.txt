@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "宝贝考试加油哦 不要着急 紧张哦 你是最棒哒嘿嘿 宝贝加油！！",
+"note_ch": "花不一定是为了花店而开，我一定是为你而来。",
 # 金句英文
-"note_en": "Every exam must be passed"
+"note_en": "Flowers don't have to bloom for the florist, I must be here for you."
 }
