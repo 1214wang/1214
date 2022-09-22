@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "你的名字只有三个字，虽构不成一句话，但已经装满了我的心。",
+"note_ch": "有你的日子里，随手抓一束风，就是整个浪漫的青春",
 # 金句英文
-"note_en": "Your name is only three words, and although it cannot be a sentence, it has filled my heart."
+"note_en": "On your day, grab a bunch of wind at your fingertips, it's the whole romantic youth"
 }
