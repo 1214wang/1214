@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "有你的日子里，随手抓一束风，就是整个浪漫的青春",
+"note_ch": "我对你的思念就像着日子一样，只增不减。",
 # 金句英文
-"note_en": "On your day, grab a bunch of wind at your fingertips, it's the whole romantic youth"
+"note_en": "My thoughts about you are like days, only increasing and not decreasing."
 }
