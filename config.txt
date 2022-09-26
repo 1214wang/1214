@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "我将要变成一阵风，温柔的将你包围。",
+"note_ch": "想用每日和温柔和月亮换取一束光，最后将它们化作星河万顷赠予你。",
 # 金句英文
-"note_en": "I am going to turn into a gust of wind, gently enveloping you."
+"note_en": "I want to exchange daily and gentle and the moon for a beam of light, and finally give them to you as galaxies."
 }
