@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "眼里都是你，亿万星辰犹不及。",
+"note_ch": "心中万点涟漪，都是为你而动。眼中万里柔情，皆是为你而起。",
 # 金句英文
-"note_en": "Eyes are all you, billions of stars are still not enough."
+"note_en": "Ten thousand ripples in your heart are all moving for you. The tenderness in your eyes is all for you."
 }
