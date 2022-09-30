@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "我还是很喜欢你，像春雨洒落八百里，淅淅沥沥。",
+"note_ch": "想你的心情实在没办法用一句话代替。",
 # 金句英文
-"note_en": "I still like you very much, like the spring rain falling for eight hundred miles, pouring down."
+"note_en": "I miss your mood really can't be replaced by a sentence."
 }
