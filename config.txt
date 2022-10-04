@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "我不想做你人生的插曲，我想成为你一生的主题曲。",
+"note_ch": "白昼与黑夜都无法阻挡我对你的思念。",
 # 金句英文
-"note_en": "I don't want to be an episode in your life, I want to be the theme song of your life."
+"note_en": "Day and night can't stop me from thinking of you."
 }
