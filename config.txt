@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "这一生我只牵你的手……因为今生有你早已足够…",
+"note_ch": "我的所有不远万里 皆为你所奔赴.",
 # 金句英文
-"note_en": "I will only hold your hand in this life... "
+"note_en": "All my miles are for you. "
 }
