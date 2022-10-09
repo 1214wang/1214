@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "玫瑰到了花期，我很想你。",
+"note_ch": "我身体很好，可以扛米袋子，扛煤气罐，可就是扛不住想你。",
 # 金句英文
-"note_en": "The rose has reached its blooming period and I miss you so much. "
+"note_en": "I'm in good health, I can carry rice bags and gas cans, but I can't think of you. "
 }
