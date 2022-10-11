@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "我愿一直在你身边，化作暖阳，给你温暖。我愿一直在你身边，化作明月，给你光亮。",
+"note_ch": "我不要短暂的温存，只要你一世的陪伴。",
 # 金句英文
-"note_en": "I would like to be by your side all the time, to turn into a warm sun and to give you warmth. I would like to be by your side all the time, to be transformed into a bright moon, to give you light."
+"note_en": "I don't want a short warm life, as long as you are accompanied by a lifetime."
 }
