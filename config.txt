@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "我真的真的好喜欢你。喜欢到。风不再吹 云不再飘。树不再绿 花不在红。",
+"note_ch": "愿岁月可回首，且以深情共白头。",
 # 金句英文
-"note_en": "I really, really like you. Loved it. The wind is no longer blowing and the clouds are no longer drifting. The tree is no longer green The flowers are not red."
+"note_en": "May the years be looked back and shared with affection."
 }
