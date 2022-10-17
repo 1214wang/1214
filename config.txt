@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "雨水透过窗。思念传彼岸，你在我心房。",
+"note_ch": "春风再美也比不上你的笑，没见过你的人不会明了。",
 # 金句英文
-"note_en": "Rain shines through the window. Thoughts spread to the other side, you are in my heart."
+"note_en": "No matter how beautiful the spring breeze is, it can't compare to your smile, and people who haven't seen you won't understand."
 }
