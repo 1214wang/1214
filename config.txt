@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "曾踏月而来，只因你在山中，我独爱你一人。",
+"note_ch": "思念就像河流般，滔滔不绝地流向大海，流向我的心房。",
 # 金句英文
-"note_en": "I came to the moon because you are on the mountain and I only love you."
+"note_en": "Like a river, my thoughts flow endlessly to the sea, to my heart."
 }
