@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "你是我的可遇不可求",
+"note_ch": "水在流，鱼在游；爱你不需要理由",
 # 金句英文
-"note_en": "You are my unattainable"
+"note_en": "The water is flowing, the fish are swimming; You don't need a reason to love you"
 }
