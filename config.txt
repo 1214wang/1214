@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "水在流，鱼在游；爱你不需要理由",
+"note_ch": "初识你名，久居我⼼",
 # 金句英文
-"note_en": "The water is flowing, the fish are swimming; You don't need a reason to love you"
+"note_en": "When I first met your name, I lived in my heart for a long time"
 }
