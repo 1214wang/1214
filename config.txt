@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "没有你，我的天空少了⼀⽚⾊彩；没有你，我的世界多了⼀种思念。",
+"note_ch": "想你在每⼀刻，爱你在每⼀天!",
 # 金句英文
-"note_en": "Without you, my sky would have one less color; Without you, my world would have one more miss."
+"note_en": "Think of you in every moment and love you every day!"
 }
