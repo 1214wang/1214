@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "我喜欢你，从黑夜到黎明，从冷冬到暖春，从一秒到一生，生生不息，轮回不止。",
+"note_ch": "我对你的爱只增不减",
 # 金句英文
-"note_en": "I like you, from night to dawn, from cold winter to warm spring, from one second to a lifetime, endless life, reincarnation."
+"note_en": "My love for you only grows"
 }
