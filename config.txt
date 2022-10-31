@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "我对你的爱只增不减",
+"note_ch": "有你的日子，再苦再累也都值得",
 # 金句英文
-"note_en": "My love for you only grows"
+"note_en": "With your days, no matter how hard and tired it is, it is worth it"
 }
