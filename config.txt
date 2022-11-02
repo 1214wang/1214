@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "如果生活很苦的话，你要不要搬进我甜甜的心中。",
+"note_ch": "生活很苦，我会把你搬进我甜甜的心中。",
 # 金句英文
-"note_en": "If life is hard, do you want to move into my sweet heart?"
+"note_en": "Life is hard, I will move you into my sweet heart."
 }
