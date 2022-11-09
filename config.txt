@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "我们熬过了漫长岁月，然后白了头。在暮年和余生里，我眼中的爱情全然是你的样子。",
+"note_ch": "在未来的日子里，我会陪在你左右。",
 # 金句英文
-"note_en": "Life is hard, I will move you into my sweet heart."
+"note_en": "I will be by your side in the days to come."
 }
