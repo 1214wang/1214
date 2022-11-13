@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "我为你翻山越岭，却无心看风景。",
+"note_ch": "今天有一点想你，不止一点，不止今天",
 # 金句英文
-"note_en": "I climbed the mountains for you, but I had no intention of looking at the scenery."
+"note_en": "I miss you a little today, more than a little, more than today."
 }
