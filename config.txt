@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "最美的不是下雨天，是曾经和你躲过的屋檐",
+"note_ch": "海底月是天上月，眼前人是心上人。",
 # 金句英文
-"note_en": "The most beautiful thing is not a rainy day, but the eaves that once hid with you ."
+"note_en": "The moon under the sea is the moon in the sky, and the person in front of you is the sweetheart"
 }
