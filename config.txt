@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "海底月是天上月，眼前人是心上人。",
+"note_ch": "想起你，我的脸就泛起微笑。",
 # 金句英文
-"note_en": "The moon under the sea is the moon in the sky, and the person in front of you is the sweetheart"
+"note_en": "When I think of you, my face beams."
 }
