@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "想吧唧你一口，尝尝你到底是什么做的，怎么这么可爱。",
+"note_ch": "我的记性什么时候这么好了，每天一醒来都记得想你。",
 # 金句英文
-"note_en": "Think of it and take a sip of you, taste what the hell you make of, how it is so cute."
+"note_en": "When did my memory become so good, I remember to think of you every day when I wake up."
 }
