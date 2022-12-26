@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "我的记性什么时候这么好了，每天一醒来都记得想你。",
+"note_ch": "世界这么大，而我真正想落脚的地方，是你的身旁。",
 # 金句英文
-"note_en": "When did my memory become so good, I remember to think of you every day when I wake up."
+"note_en": "The world is so big, and the place I really want to stay is next to you."
 }
