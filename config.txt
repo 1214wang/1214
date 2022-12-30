@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "明天生动而具体，有且仅有一个你。",
+"note_ch": "人生只要两次幸运就好了，一次遇见你，一次走到底",
 # 金句英文
-"note_en": "Tomorrow is vivid and concrete, with and only one you."
+"note_en": "Life only needs to be lucky twice, once to meet you, once to go to the end"
 }
