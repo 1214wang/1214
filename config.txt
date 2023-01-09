@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "你站在那不要动！等我飞奔过去！",
+"note_ch": "我也许在很多事情上不能做到最好，但在爱你这件事上，我会是最好的。",
 # 金句英文
-"note_en": "You stand there and don't move! Wait for me to rush over!"
+"note_en": "I may not be the best at many things, but I will be the best at loving you."
 }
