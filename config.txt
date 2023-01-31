@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "我喜欢你，只增不减",
+"note_ch": "情话躲在风里,喜欢的人藏在梦里,你还在我心里",
 # 金句英文
-"note_en": "I like you more and more"
+"note_en": "Love words are hidden in the wind, the person you like is hidden in the dream, and you are still in my heart"
 }
