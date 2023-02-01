@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "情话躲在风里,喜欢的人藏在梦里,你还在我心里",
+"note_ch": "你的名字，是我读过最短的情诗。",
 # 金句英文
-"note_en": "Love words are hidden in the wind, the person you like is hidden in the dream, and you are still in my heart"
+"note_en": "Your name is the shortest love poem I have ever read."
 }
