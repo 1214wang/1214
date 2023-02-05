@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "你是我一生只会遇见一次的惊喜。",
+"note_ch": "等夕阳掉进了海里，我就背上你，去寻摸一池的星星。",
 # 金句英文
-"note_en": "You are a surprise that I will only meet once in my life."
+"note_en": "When the sun sets into the sea, I will carry you on my back and go in search of a pool of stars."
 }
