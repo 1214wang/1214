@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "世界需要讲讲道理，而我最偏心你",
+"note_ch": "所有的温柔眷恋都是对你灿若星辰的喜欢",
 # 金句英文
-"note_en": "The world needs reason, and I am most partial to you"
+"note_en": "All tender attachment is a love for you like the stars"
 }
