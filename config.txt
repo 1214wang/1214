@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "你值得我珍藏一生 疯狂我整个青春",
+"note_ch": "南风过境十里 春风不如你",
 # 金句英文
-"note_en": "You deserve my life to cherish madness throughout my youth"
+"note_en": "The south wind crosses ten miles The spring breeze is not as good as you"
 }
