@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "半途而废可不好 所以我会爱你到老",
+"note_ch": "满树荣华，你是心之所向",
 # 金句英文
-"note_en": "It's not good to stop halfway, so I will love you until I am old"
+"note_en": "Full of glory, you are where your heart desires"
 }
