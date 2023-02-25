@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "想和你情窦初开，也想和你两鬓斑白",
+"note_ch": "望向你的时候眼里满是藏不住的爱意",
 # 金句英文
-"note_en": "I want to have a relationship with you, and I want to have white sideburns with you"
+"note_en": "When I look at you, my eyes are full of love that cannot be hidden"
 }
