@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "望向你的时候眼里满是藏不住的爱意",
+"note_ch": "山水一程，风雨一更，三生有幸，共度余生。",
 # 金句英文
-"note_en": "When I look at you, my eyes are full of love that cannot be hidden"
+"note_en": "A journey of mountains and rivers, a change of wind and rain, three lives are fortunate, spend the rest of their lives together."
 }
