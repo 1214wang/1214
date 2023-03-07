@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "我想给你的爱，是宠溺是偏爱是首选",
+"note_ch": "温柔的好天气总是和你一样止不住心动",
 # 金句英文
-"note_en": "I want to give you love that is spoiled or preferred is preferred"
+"note_en": "Gentle good weather is always as exciting as you are"
 }
