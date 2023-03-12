@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "我喜欢你，穷奇所思，可赴千里",
+"note_ch": "我把喜欢写进风里 从此整个世界都是你",
 # 金句英文
-"note_en": "I like you, poor and wonderful, can go thousands of miles"
+"note_en": "I put my likes in the wind, and the whole world will be you"
 }
