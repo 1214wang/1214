@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "温山软水满天星辰，不及你眉眼半分。",
+"note_ch": "我对你的喜欢缓慢而温柔的洇开 一如既往",
 # 金句英文
-"note_en": "The soft water of the warm mountain is full of stars, less than half a point of your eyebrows."
+"note_en": "My liking for you slowly and gently unfolded as always"
 }
