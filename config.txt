@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "见过无数灯光打烊 还是希望和你一起看夕阳",
+"note_ch": "纵拥千千晚星，唯你是我眼中的星辰。",
 # 金句英文
-"note_en": "I've seen countless lights closing, and I still want to watch the sunset with you"
+"note_en": "With thousands of stars, you are the stars in my eyes."
 }
