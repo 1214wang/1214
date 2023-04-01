@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "纵拥千千晚星，唯你是我眼中的星辰。",
+"note_ch": "山野千里，你是我藏在星星里的浪漫。",
 # 金句英文
-"note_en": "With thousands of stars, you are the stars in my eyes."
+"note_en": "Chisato Yamano, you are my romance hidden in the stars.."
 }
