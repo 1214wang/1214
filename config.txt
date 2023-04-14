@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2018-12-14",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "以你之名 书我一生",
+"note_ch": "能够在最美的时光与你相遇，才算没有辜负自己",
 # 金句英文
-"note_en": "In your name book my life"
+"note_en": "To be able to meet you at the most beautiful time is to live up to yourself"
 }
